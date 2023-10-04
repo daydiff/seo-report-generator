@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<methodResponse>
+    <params>
+        <param>
+            <value>
+                <struct>
+                    <member>
+                        <name>projects</name>
+                        <value>
+                            <string>a:2:{i:0;a:2:{s:2:&quot;id&quot;;s:1:&quot;1&quot;;s:3:&quot;url&quot;;s:14:&quot;td-komandor.ru&quot;;}i:1;a:2:{s:2:&quot;id&quot;;s:1:&quot;2&quot;;s:3:&quot;url&quot;;s:13:&quot;atabakoff.com&quot;;}}</string>
+                        </value>
+                    </member>
+                </struct>
+            </value>
+        </param>
+    </params>
+</methodResponse>

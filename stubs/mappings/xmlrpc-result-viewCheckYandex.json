@@ -1,0 +1,15 @@
+{
+  "request": {
+    "url": "/script/xmlrpc/server.php",
+    "method": "POST",
+    "bodyPatterns": [
+      {
+        "equalToXml": "<?xml version=\"1.0\"?>\n<methodCall>\n<methodName>result.viewCheckYandex</methodName>\n<params>\n<param>\n<value><string>a:3:{i:0;s:6:&quot;avanta&quot;;i:1;s:32:&quot;9d5f0e12daa882742b6480fe8b82f23c&quot;;i:2;s:1:&quot;1&quot;;}</string></value>\n</param>\n</params>\n</methodCall>"
+      }
+    ]
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "xmlrpc-result-viewCheckYandex.xml"
+  }
+}

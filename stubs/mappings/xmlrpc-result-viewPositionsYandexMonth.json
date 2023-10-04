@@ -1,0 +1,16 @@
+{
+  "request": {
+    "url": "/script/xmlrpc/server.php",
+    "method": "POST",
+    "bodyPatterns": [
+      {
+        "equalToXml": "<?xml version=\"1.0\"?>\n<methodCall>\n<methodName>result.viewPositionsYandexMonth</methodName>\n<params>\n<param>\n<value>\n<string>${xmlunit.ignore}</string>\n</value>\n</param>\n</params>\n</methodCall>",
+        "enablePlaceholders" : true
+      }
+    ]
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "xmlrpc-result-viewPositionsYandexMonth.xml"
+  }
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+    <data>
+        <item>
+            <name>Referrals from search engines</name>
+            <visits>1235</visits>
+        </item>
+        <item>
+            <name>Direct entries</name>
+            <visits>56</visits>
+        </item>
+        <item>
+            <name>Website link clicks</name>
+            <visits>2500</visits>
+        </item>
+        <item>
+            <name>Ad clicks</name>
+            <visits>2890</visits>
+        </item>
+    </data>
+    <totals>
+        <visits>7120</visits>
+    </totals>
+</data>

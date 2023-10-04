@@ -1,0 +1,15 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/script/xmlrpc/server.php",
+    "bodyPatterns": [
+      {
+        "equalToXml": "<?xml version=\"1.0\"?>\n<methodCall>\n<methodName>result.viewProjects</methodName>\n<params>\n<param>\n<value><string>a:2:{i:0;s:6:&quot;avanta&quot;;i:1;s:32:&quot;9d5f0e12daa882742b6480fe8b82f23c&quot;;}</string></value>\n</param>\n</params>\n</methodCall>"
+      }
+    ]
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "xmlrpc-result-viewProjects.xml"
+  }
+}

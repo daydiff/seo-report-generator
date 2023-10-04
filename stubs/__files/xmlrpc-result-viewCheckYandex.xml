@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<methodResponse>
+    <params>
+        <param>
+            <value>
+                <struct>
+                    <member>
+                        <name>regions</name>
+                        <value>
+                            <string>a:2:{i:66;s:12:&quot;Ekaterinburg&quot;;i:77;s:6:&quot;Moscow&quot;;}</string>
+                        </value>
+                    </member>
+                </struct>
+            </value>
+        </param>
+    </params>
+</methodResponse>

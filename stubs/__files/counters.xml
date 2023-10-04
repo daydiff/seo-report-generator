@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+    <counters>
+        <counter>
+            <id>1</id>
+            <site>td-komandor.ru</site>
+        </counter>
+        <counter>
+            <id>2</id>
+            <site>avanta.ru</site>
+        </counter>
+    </counters>
+</data>

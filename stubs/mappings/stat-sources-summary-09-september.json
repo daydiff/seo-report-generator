@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPattern": "/stat/sources/summary.xml\\?id=1&goal_id=&per_page=1000&date1=\\d{4}0901&date2=\\d{4}0930&group=all&oauth_token=7541404faac016ab56b3ac3f33c506f8"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/xml"
+    },
+    "bodyFileName": "stat-sources-summary-09-september.xml"
+  }
+}
